@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+##Welcome to QuizNut.
+QuizNut is a decentralized trivia and quiz platform hosted on Telegram, combining the excitement of competitive gaming with the transparency and rewards of blockchain technology. At its core, QuizNut engages users in a gamified trivia experience where participants compete for financial prizes and exclusive NFTs. The platform’s secure escrow functionality, powered by automated smart contracts, ensures that entry fees are held safely until the game’s conditions—such as a minimum number of participants—are met, guaranteeing a transparent and trustworthy experience for all users.
 <!--
 
 **Here are some ideas to get you started:**
